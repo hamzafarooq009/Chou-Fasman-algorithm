@@ -1,4 +1,4 @@
-# Computational_bio
+## Biology Networks
 
 > DNA sequence as input and output six reading frames, and their amino acid
 sequence
